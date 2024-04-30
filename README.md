@@ -79,7 +79,7 @@ Esses pacotes são essenciais para a construção e funcionamento do projeto Cli
    - Abra o projeto com o Visual Studio 2022.
 
 3. **Configurar Projeto de Inicialização:**
-   - Clique com o botão direito no projeto `ClientHub` e selecione a opção "Definir Projeto de Inicialização".
+   - Clique com o botão direito no projeto `ClientHub` e selecione a opção "Definir Projeto de Inicialização (Define Startup Project)".
    - Execute o projeto. Isso iniciará o projeto MVC `ClientHub`.
 
 4. **Gerenciar Clientes via MVC:**
