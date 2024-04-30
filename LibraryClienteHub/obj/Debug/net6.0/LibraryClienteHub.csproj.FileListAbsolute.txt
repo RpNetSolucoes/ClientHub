@@ -1,0 +1,14 @@
+C:\Users\PolianaGuimaraes\source\repos\ClientHub\LibraryClienteHub\bin\Debug\net6.0\LibraryClienteHub.deps.json
+C:\Users\PolianaGuimaraes\source\repos\ClientHub\LibraryClienteHub\bin\Debug\net6.0\LibraryClienteHub.runtimeconfig.json
+C:\Users\PolianaGuimaraes\source\repos\ClientHub\LibraryClienteHub\bin\Debug\net6.0\LibraryClienteHub.dll
+C:\Users\PolianaGuimaraes\source\repos\ClientHub\LibraryClienteHub\bin\Debug\net6.0\LibraryClienteHub.pdb
+C:\Users\PolianaGuimaraes\source\repos\ClientHub\LibraryClienteHub\obj\Debug\net6.0\LibraryClienteHub.csproj.AssemblyReference.cache
+C:\Users\PolianaGuimaraes\source\repos\ClientHub\LibraryClienteHub\obj\Debug\net6.0\LibraryClienteHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PolianaGuimaraes\source\repos\ClientHub\LibraryClienteHub\obj\Debug\net6.0\LibraryClienteHub.AssemblyInfoInputs.cache
+C:\Users\PolianaGuimaraes\source\repos\ClientHub\LibraryClienteHub\obj\Debug\net6.0\LibraryClienteHub.AssemblyInfo.cs
+C:\Users\PolianaGuimaraes\source\repos\ClientHub\LibraryClienteHub\obj\Debug\net6.0\LibraryClienteHub.csproj.CoreCompileInputs.cache
+C:\Users\PolianaGuimaraes\source\repos\ClientHub\LibraryClienteHub\obj\Debug\net6.0\LibraryClienteHub.dll
+C:\Users\PolianaGuimaraes\source\repos\ClientHub\LibraryClienteHub\obj\Debug\net6.0\refint\LibraryClienteHub.dll
+C:\Users\PolianaGuimaraes\source\repos\ClientHub\LibraryClienteHub\obj\Debug\net6.0\LibraryClienteHub.pdb
+C:\Users\PolianaGuimaraes\source\repos\ClientHub\LibraryClienteHub\obj\Debug\net6.0\LibraryClienteHub.genruntimeconfig.cache
+C:\Users\PolianaGuimaraes\source\repos\ClientHub\LibraryClienteHub\obj\Debug\net6.0\ref\LibraryClienteHub.dll
