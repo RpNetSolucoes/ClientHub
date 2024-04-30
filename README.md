@@ -97,6 +97,7 @@ Para confirmar que a aplicação está rodando corretamente, você pode verifica
 
 
 
+
 # 📌 (ClientHub) - Informações importantes sobre a aplicação (MVC)  📌
 
 ## ClientController
@@ -161,6 +162,10 @@ Este controlador é responsável por lidar com as operações relacionadas aos c
     - `contentType`: O tipo de conteúdo (MIME type) do arquivo.
   - **Retorno:**
     - Um objeto `IFormFile` representando o arquivo convertido.
+
+
+
+
 # 📌 (ClientHub) - Informações importantes sobre a aplicação  📌
 
 ## AddressClientController
@@ -207,6 +212,10 @@ Este controlador é responsável por lidar com as operações relacionadas aos e
 - **IAddressClientServices _addressClientsServises**: Uma instância da interface `IAddressClientServices` para realizar operações relacionadas aos endereços dos clientes.
 - **IClientsServises _clientsServises**: Uma instância da interface `IClientsServises` para realizar operações relacionadas aos clientes.
 
+
+
+
+
 # 📌 (ApiClientHub) - Informações importantes sobre a aplicação (WebApi) 📌
 
 ## AuthController
@@ -231,6 +240,13 @@ Este controlador é responsável pela autenticação dos usuários no sistema.
 ### Dependências
 
 - **IAuthServices _authServices**: Uma instância da interface `IAuthServices` para realizar operações relacionadas à autenticação do usuário.
+
+## Exemplos de Uso
+
+Exemplos detalhados de como utilizar a API podem ser encontrados na documentação do Swagger da aplicação.
+
+
+
 
 
 ## ClientsController
@@ -303,6 +319,13 @@ Este controlador é responsável por lidar com operações relacionadas aos clie
 
 - **IClientsServises _clientsServises**: Uma instância da interface `IClientsServises` para realizar operações relacionadas aos clientes.
 
+## Exemplos de Uso
+
+Exemplos detalhados de como utilizar a API podem ser encontrados na documentação do Swagger da aplicação.
+
+
+
+
 ## AddressClientController
 
 Este controlador é responsável por lidar com operações relacionadas aos endereços de clientes no sistema.
@@ -362,3 +385,13 @@ Este controlador é responsável por lidar com operações relacionadas aos ende
 
 - **IAddressClientServices _addressClientServices**: Uma instância da interface `IAddressClientServices` para realizar operações relacionadas aos endereços de clientes.
 - **IClientsServises _clientsServises**: Uma instância da interface `IClientsServises` para realizar operações relacionadas aos clientes.
+
+
+## Exemplos de Uso
+
+Exemplos detalhados de como utilizar a API podem ser encontrados na documentação do Swagger da aplicação.
+
+---
+
+Agradecemos por usar a documentação do projeto (ApiClientHub). Se tiver alguma dúvida ou precisar de mais informações, não hesite em nos contatar. Estamos aqui para ajudar!
+
