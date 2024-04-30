@@ -232,18 +232,6 @@ Este controlador é responsável pela autenticação dos usuários no sistema.
 
 - **IAuthServices _authServices**: Uma instância da interface `IAuthServices` para realizar operações relacionadas à autenticação do usuário.
 
-### Exemplo de Uso
-```http
-POST /api/auth/login
-
-### Exemplo de Retorno
-Content-Type: application/json
-
-{
-  "username": "exampleuser",
-  "password": "examplepassword"
-}
-
 
 ## ClientsController
 
@@ -315,28 +303,6 @@ Este controlador é responsável por lidar com operações relacionadas aos clie
 
 - **IClientsServises _clientsServises**: Uma instância da interface `IClientsServises` para realizar operações relacionadas aos clientes.
 
-### Exemplo de Uso
-
-```http
-GET /api/clients
-
-### Exemplo de Retorno
-
-[
-  {
-    "id": 1,
-    "name": "Exemplo Cliente",
-    "email": "cliente@example.com",
-    "logoType": "logo.png"
-  },
-  {
-    "id": 2,
-    "name": "Outro Cliente",
-    "email": "outrocliente@example.com",
-    "logoType": "outrologo.png"
-  }
-]
-
 ## AddressClientController
 
 Este controlador é responsável por lidar com operações relacionadas aos endereços de clientes no sistema.
@@ -396,8 +362,3 @@ Este controlador é responsável por lidar com operações relacionadas aos ende
 
 - **IAddressClientServices _addressClientServices**: Uma instância da interface `IAddressClientServices` para realizar operações relacionadas aos endereços de clientes.
 - **IClientsServises _clientsServises**: Uma instância da interface `IClientsServises` para realizar operações relacionadas aos clientes.
-
-### Exemplo de Uso
-
-```http
-GET /api/addressclient
