@@ -97,7 +97,7 @@ Para confirmar que a aplicação está rodando corretamente, você pode verifica
 
 
 
-# 📌 (ApiClientHub) - Informações importantes sobre a aplicação (MVC)  📌
+# 📌 (ClientHub) - Informações importantes sobre a aplicação (MVC)  📌
 
 ## ClientController
 
