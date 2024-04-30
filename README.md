@@ -206,8 +206,6 @@ Este controlador é responsável por lidar com as operações relacionadas aos e
 
 - **IAddressClientServices _addressClientsServises**: Uma instância da interface `IAddressClientServices` para realizar operações relacionadas aos endereços dos clientes.
 - **IClientsServises _clientsServises**: Uma instância da interface `IClientsServises` para realizar operações relacionadas aos clientes.
-- 
-
 
 # 📌 (ApiClientHub) - Informações importantes sobre a aplicação (WebApi) 📌
 
@@ -217,7 +215,7 @@ Este controlador é responsável pela autenticação dos usuários no sistema.
 
 ### Rotas
 
-- **POST /api/auth/login**
+- POST /api/auth/login
   - Realiza o login do cliente e gera um token de acesso.
 
 ### Métodos
