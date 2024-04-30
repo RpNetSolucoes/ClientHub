@@ -71,7 +71,7 @@ Esses pacotes são essenciais para a construção e funcionamento do projeto Cli
 # Para rodar o projeto, siga os passos abaixo:
 
 1. **Restaurar Banco de Dados:**
-   - Na pasta do projeto, você encontrará um arquivo de banco de dados como backup. Restaure este banco de dados no SQL Server.
+   - Na pasta do projeto, você encontrará um arquivo de banco de dados (nome: DbClienHub.bak) como backup. Restaure este banco de dados no SQL Server.
    - Configure a string de conexão no arquivo `DbClientHubContext.cs`, localizado em `LibraryClientHub/Models/DbClientHubContext.cs`. Por exemplo: 
      `"Server=localhost;Database=DbClientHub;Trusted_Connection=True;"`.
 
