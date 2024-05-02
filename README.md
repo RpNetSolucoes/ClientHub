@@ -88,7 +88,7 @@ Esses pacotes são essenciais para a construção e funcionamento do projeto Cli
 5. **Iniciar a API:**
    - Repita o processo de definir o projeto de inicialização, mas desta vez selecione o projeto `ApiClientHub`.
    - Execute o projeto. Isso iniciará a API.
-   - Faça a autenticação no endpoint `/Login`. Será gerado um token (userName: RpNet | password: j2i83bn9s9nsiwo).
+   - Faça a autenticação no endpoint `/Login`. Será gerado um token (userName: rpnet | password: V1d4@2024).
    - Na parte superior direita, há um botão "Authorize". Informe o token gerado, precedido pela palavra "Bearer". Exemplo: "Bearer oawienhfoianfoknalsavfdawf".
 
 Agora você terá acesso ao Swagger com todos os endpoints para consumir os dados dos clientes.
